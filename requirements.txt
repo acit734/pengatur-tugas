@@ -1,0 +1,5 @@
+pygame
+yt_dlp
+ffmpeg
+ffprobe
+pydub
